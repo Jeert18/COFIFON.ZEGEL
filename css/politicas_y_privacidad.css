@@ -3,6 +3,8 @@
     border-radius: 10px;
     padding: 30px;
     
+
+    
 }
 .textoprincipal{
     text-align: center;
@@ -28,3 +30,14 @@
 .color7{
     color: rgb(0, 0, 0);
 }
+#botonRetroceder {
+    background-color: #7a5856;
+    color: white; 
+    border: none; 
+    padding: 10px 20px; 
+    cursor: pointer;
+  }
+  
+  #botonRetroceder:hover {
+    background-color: #7a5856;
+  }

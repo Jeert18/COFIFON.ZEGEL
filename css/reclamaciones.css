@@ -1,11 +1,23 @@
 body {
     padding-top: 20px;
     font-family: Arial, sans-serif;
-    background-color: #7eaca18e;
+    background-color: rgb(236, 240, 239);
     margin: 0;
     padding: 0;
     
 }
+
+#botonRetroceder {
+    background-color: #7a5856;
+    color: white; 
+    border: none; 
+    padding: 10px 20px; 
+    cursor: pointer;
+  }
+  
+  #botonRetroceder:hover {
+    background-color: #7a5856;
+  }
 
 .container {
 

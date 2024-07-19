@@ -6,6 +6,20 @@ body {
     background-color: rgb(236, 240, 239);
 }
 
+#botonRetroceder {
+    background-color: #7a5856;
+    color: white; 
+    border: none; 
+    padding: 10px 20px; 
+    cursor: pointer;
+  }
+  
+  #botonRetroceder:hover {
+    background-color: #7a5856;
+  }
+  
+
+
 header, footer {
     background-color: #8d6d45;
     color: #fff;

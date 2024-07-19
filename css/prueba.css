@@ -1,0 +1,12 @@
+#botonRetroceder {
+    background-color: #7a624d; /* Color de fondo azul (puedes cambiarlo) */
+    color: white; /* Color de texto blanco */
+    border: none; /* Sin borde */
+    padding: 10px 20px; /* Espacio interno */
+    cursor: pointer; /* Cambia el cursor a una mano cuando se pasa por encima */
+  }
+  
+  #botonRetroceder:hover {
+    background-color: #7a624d; /* Cambia el color de fondo al pasar el mouse */
+  }
+  
